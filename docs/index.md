@@ -3,7 +3,7 @@ Welcome to Foam-mkdocs-template! [[#support roamlinks]]!
 
 * How to create this website and share your foam/obsidian notes? See: [[tutorial]]
 * [foam](https://github.com/foambubble/foam)
-
+[[Vim命令]]
 
 ## Support roamlinks
 
