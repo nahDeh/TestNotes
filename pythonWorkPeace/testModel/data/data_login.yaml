@@ -1,0 +1,42 @@
+test_login_001:
+  K001:
+    zanhao: "nswe"
+    pwd: "11111"
+    yuqi: "XXXX"
+    suomin: "正确账号正确密码"
+  K008:
+    zanhao: " nswe "
+    pwd: "111111"
+    yuqi: "XXX"
+    suomin: "账号首尾带空格"
+
+test_login_002:
+  K004:
+    zanhao: "nswe"
+    pwd: ""
+    yuqi: "XXX"
+    suomin: "密码为空"
+  K005:
+    zanhao: "nswe"
+    pwd: "111111111111111111111111111111111111111111111111111111111111111111"
+    yuqi: "XXX"
+    suomin: "密码长度超长"
+  K006:
+    zanhao: "nswe"
+    pwd: "1"
+    yuqi: "XXX"
+    suomin: "密码长度超短"
+
+test_login_003:
+  K002:
+    zanhao: "nswe"
+    pwd: "123456"
+    yuqi: ""
+    suomin: "正确账号错误密码"
+
+test_login_004:
+  K003:
+    zanhao: ""
+    pwd: "111111"
+    yuqi: "XXX"
+    suomin: "账号为空"
