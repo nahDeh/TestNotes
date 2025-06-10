@@ -1,0 +1,48 @@
+{
+  "recentFiles": [
+    {
+      "basename": "技术宝典",
+      "path": "docs/test_note/笔记/技术宝典.pdf"
+    },
+    {
+      "basename": "2025-04-25",
+      "path": "2025-04-25.md"
+    },
+    {
+      "basename": "demo-mkdocs",
+      "path": "demo-mkdocs.png"
+    },
+    {
+      "basename": "Jmeter函数",
+      "path": "docs/test_note/笔记/4.接口测试/Jmeter函数.md"
+    },
+    {
+      "basename": "面试常问",
+      "path": "docs/test_note/笔记/面试常问.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "docs/test_note/笔记/5.Python学习/数据结构.md"
+    },
+    {
+      "basename": "test",
+      "path": "docs/test_note/python_learn/test.py"
+    },
+    {
+      "basename": "11",
+      "path": "docs/test_note/python_learn/11.py"
+    },
+    {
+      "basename": "01",
+      "path": "docs/test_note/python_learn/01.py"
+    },
+    {
+      "basename": "欢迎",
+      "path": "欢迎.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

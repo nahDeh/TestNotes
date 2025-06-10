@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "36d1c5aa052a15f1",
+        "id": "6f08946552f7430a",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb734f783f9a2a1",
+            "id": "cea048ae47f4450b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "docs/test_note/笔记/技术宝典.pdf",
+                "page": 3,
+                "left": -7,
+                "top": 757,
+                "zoom": 2.282882580211658
+              },
+              "icon": "lucide-file-text",
+              "title": "技术宝典"
             }
           }
         ]
@@ -69,12 +75,23 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "3b17f063a9524994",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0a97639a26716310",
@@ -90,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/test_note/笔记/技术宝典.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,20 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "199a05c93647d9c7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
+              "title": "技术宝典 的反向链接列表"
             }
           },
           {
@@ -136,19 +141,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/test_note/笔记/技术宝典.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "技术宝典 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,32 +166,39 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "cloze:显/隐所有填空": false,
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "bdb734f783f9a2a1",
+  "active": "cea048ae47f4450b",
   "lastOpenFiles": [
+    "2025-04-25.md",
+    "demo-mkdocs.png",
+    "docs/test_note/笔记/技术宝典.pdf",
+    "docs/test_note/笔记/4.接口测试/Jmeter函数.md",
+    "docs/test_note/笔记/面试常问.md",
+    "docs/test_note/笔记/5.Python学习/数据结构.md",
+    "docs/test_note/python_learn/test.py",
+    "docs/test_note/python_learn/11.py",
+    "docs/test_note/python_learn/01.py",
     "pythonWorkPeace/testModel/test/__pycache__/test_login.cpython-37-pytest-7.4.4.pyc",
     "pythonWorkPeace/testModel/test/__pycache__/test_login.cpython-37-pytest-5.3.5.pyc",
     "pythonWorkPeace/testModel/test/__pycache__/test_baiduSearch.cpython-37-pytest-5.3.5.pyc",
     "pythonWorkPeace/testModel/test/__pycache__",
     "pythonWorkPeace/testModel/utils/__pycache__/readConfigFileUtils.cpython-37.pyc",
     "pythonWorkPeace/testModel/utils/__pycache__/page_base.cpython-37.pyc",
-    "pythonWorkPeace/testModel/utils/__pycache__/initDriver.cpython-37.pyc",
-    "pythonWorkPeace/testModel/utils/__pycache__",
-    "pythonWorkPeace/testModel/utils/readConfigFileUtils.py",
-    "pythonWorkPeace/testModel/utils/readCesiDataUtils.py",
-    "pythonWorkPeace/testModel/utils/page_base.py",
-    "2025-04-25.md",
     "docs/test_note/笔记/3.MySQL学习/查询命令操作学习.md",
     "docs/test_note/笔记/3.MySQL学习/聚合函数.md",
     "docs/test_note/笔记/3.MySQL学习/运算符.md",
     "docs/test_note/笔记/4.接口测试/Jmeter使用.md",
-    "docs/test_note/笔记/4.接口测试/Jmeter函数.md",
     "docs/test_note/笔记/4.接口测试/接口测试.md",
     "docs/test_note/笔记/3.MySQL学习/MySQL基本命令.md",
     "docs/test_note/笔记/2.Linux学习/环境部署.md",
-    "docs/test_note/笔记/5.Python学习/数据结构.md",
     "docs/index.md",
     "docs/test_note/笔记/2.Linux学习/操作命令.md"
   ]
