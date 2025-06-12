@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
       "basename": "技术宝典",
       "path": "docs/test_note/笔记/技术宝典.pdf"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "面试常问",
+      "path": "docs/test_note/笔记/面试常问.md"
+    },
+    {
+      "basename": "文件权限",
+      "path": "docs/images/文件权限.png"
     },
     {
       "basename": "2025-04-25",
@@ -15,10 +31,6 @@
     {
       "basename": "Jmeter函数",
       "path": "docs/test_note/笔记/4.接口测试/Jmeter函数.md"
-    },
-    {
-      "basename": "面试常问",
-      "path": "docs/test_note/笔记/面试常问.md"
     },
     {
       "basename": "数据结构",

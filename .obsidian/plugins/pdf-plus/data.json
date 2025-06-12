@@ -77,10 +77,10 @@
   "highlightOnHoverBacklinkPane": true,
   "backlinkHoverColor": "",
   "colors": {
-    "Yellow": "#ffd000",
     "Red": "#ea5252",
     "Note": "#086ddd",
-    "Important": "#bb61e5"
+    "Important": "#bb61e5",
+    "蓝": "#1434b3"
   },
   "defaultColor": "",
   "defaultColorPaletteItemIndex": 0,
@@ -221,9 +221,9 @@
   "clearSelectionAfterAutoPaste": true,
   "respectCursorPositionWhenAutoPaste": true,
   "blankLineAboveAppendedContent": true,
-  "autoCopy": false,
+  "autoCopy": true,
   "autoFocus": false,
-  "autoPaste": false,
+  "autoPaste": true,
   "autoFocusTarget": "last-active-and-open-then-last-paste",
   "autoPasteTarget": "last-active-and-open-then-last-paste",
   "openAutoFocusTargetIfNotOpened": true,

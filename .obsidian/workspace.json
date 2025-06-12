@@ -4,23 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "6f08946552f7430a",
+        "id": "2d81c946073008af",
         "type": "tabs",
+        "dimension": 71.01542416452442,
         "children": [
           {
-            "id": "cea048ae47f4450b",
+            "id": "bdb734f783f9a2a1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "docs/test_note/笔记/技术宝典.pdf",
-                "page": 3,
-                "left": -7,
-                "top": 757,
-                "zoom": 2.282882580211658
+                "page": 310,
+                "left": -15,
+                "top": 359,
+                "zoom": 1.043171510162943
               },
               "icon": "lucide-file-text",
               "title": "技术宝典"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e48c0fa33410d3c",
+        "type": "tabs",
+        "dimension": 28.984575835475578,
+        "children": [
+          {
+            "id": "e1b5f55936ac9e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
             }
           }
         ]
@@ -75,22 +97,12 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "3b17f063a9524994",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -121,6 +133,19 @@
             }
           },
           {
+            "id": "199a05c93647d9c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
             "id": "dd4e010beb722f89",
             "type": "leaf",
             "state": {
@@ -141,25 +166,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/test_note/笔记/技术宝典.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "技术宝典 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "cloze:显/隐所有填空": false,
+      "vscode-editor:新建代码文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -167,38 +193,38 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "cloze:显/隐所有填空": false,
-      "vscode-editor:新建代码文件": false
+      "i18n:I18N": false,
+      "pdf-plus:PDF++: 切换自动复制": false,
+      "pdf-plus:PDF++: 切换自动对焦": false,
+      "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "cea048ae47f4450b",
+  "active": "e1b5f55936ac9e01",
   "lastOpenFiles": [
-    "2025-04-25.md",
-    "demo-mkdocs.png",
     "docs/test_note/笔记/技术宝典.pdf",
-    "docs/test_note/笔记/4.接口测试/Jmeter函数.md",
+    "未命名 1.md",
+    "未命名.md",
+    "docs/就业文档/简历~CD777.tmp",
     "docs/test_note/笔记/面试常问.md",
-    "docs/test_note/笔记/5.Python学习/数据结构.md",
-    "docs/test_note/python_learn/test.py",
-    "docs/test_note/python_learn/11.py",
-    "docs/test_note/python_learn/01.py",
-    "pythonWorkPeace/testModel/test/__pycache__/test_login.cpython-37-pytest-7.4.4.pyc",
-    "pythonWorkPeace/testModel/test/__pycache__/test_login.cpython-37-pytest-5.3.5.pyc",
-    "pythonWorkPeace/testModel/test/__pycache__/test_baiduSearch.cpython-37-pytest-5.3.5.pyc",
-    "pythonWorkPeace/testModel/test/__pycache__",
-    "pythonWorkPeace/testModel/utils/__pycache__/readConfigFileUtils.cpython-37.pyc",
-    "pythonWorkPeace/testModel/utils/__pycache__/page_base.cpython-37.pyc",
+    "docs/images/文件权限.png",
+    "docs/就业文档/简历.docx",
+    "docs/就业文档/~$简历.docx",
+    "docs/就业文档",
+    "pythonWorkPeace/testModel/pytest.ini",
+    "pythonWorkPeace/testModel/test/teXXXst_baiduSearch.py",
+    "pythonWorkPeace/testModel/test/test_login.py",
+    "pythonWorkPeace/testModel/service/__pycache__/service_login.cpython-37.pyc",
+    "pythonWorkPeace/testModel/service/__pycache__/service_baiduSearch.cpython-37.pyc",
+    "2025-04-25.md",
     "docs/test_note/笔记/3.MySQL学习/查询命令操作学习.md",
     "docs/test_note/笔记/3.MySQL学习/聚合函数.md",
     "docs/test_note/笔记/3.MySQL学习/运算符.md",
     "docs/test_note/笔记/4.接口测试/Jmeter使用.md",
+    "docs/test_note/笔记/4.接口测试/Jmeter函数.md",
     "docs/test_note/笔记/4.接口测试/接口测试.md",
     "docs/test_note/笔记/3.MySQL学习/MySQL基本命令.md",
     "docs/test_note/笔记/2.Linux学习/环境部署.md",
+    "docs/test_note/笔记/5.Python学习/数据结构.md",
     "docs/index.md",
     "docs/test_note/笔记/2.Linux学习/操作命令.md"
   ]
