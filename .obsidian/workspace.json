@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75e0dd5c6c4d158f",
+        "id": "1d8ba704274afbef",
         "type": "tabs",
         "children": [
           {
-            "id": "32535cae6fe29b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/就业文档/未命名 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "c3b43fc6af6ea36c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/就业文档/技术宝典.pdf",
-                "page": 115,
-                "left": -16,
-                "top": 147,
-                "zoom": 0.9486813371409375
-              },
-              "icon": "lucide-file-text",
-              "title": "技术宝典"
-            }
-          },
-          {
-            "id": "e2d56e5cd6947916",
+            "id": "58d8c826e525df33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,8 +20,51 @@
               "icon": "lucide-file",
               "title": "未命名 1"
             }
+          },
+          {
+            "id": "198c985ae4450ce3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/就业文档/技能穿插项目.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "技能穿插项目"
+            }
+          },
+          {
+            "id": "02b1834f5d1de27b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/就业文档/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "706592b81a13578e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/就业文档/项目介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "项目介绍"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,14 +217,24 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "32535cae6fe29b8b",
+  "active": "706592b81a13578e",
   "lastOpenFiles": [
+    "docs/就业文档/未命名.md",
+    "docs/就业文档/技能穿插项目.md",
     "docs/就业文档/未命名 1.md",
-    "docs/就业文档/未命名 2.md",
+    "docs/就业文档/陈海嘉-测试工程师~0CF1B.tmp",
+    "docs/就业文档/~$嘉-测试工程师.docx",
+    "docs/就业文档/陈海嘉-测试工程师.docx",
+    "docs/就业文档/陈海嘉-测试工程师~E5486.tmp",
+    "docs/就业文档/~$简历.docx",
+    "docs/就业文档/简历~C7AD4.tmp",
+    "docs/就业文档/简历~EEBEF.tmp",
+    "docs/就业文档/项目介绍.md",
     "docs/就业文档/技术宝典.pdf",
+    "未命名 2.md",
+    "docs/就业文档/未命名 2.md",
     "images/技能穿插技能例子.png",
     "images/项目技能穿插.png",
-    "docs/就业文档/未命名.md",
     "未命名 1.md",
     "宝典阅读笔记.md",
     "images/QQ20250614-111342.png",
@@ -220,15 +243,8 @@
     "docs/就业文档/技术宝典 (1).pdf",
     "docs/test_note/笔记/技术宝典.pdf",
     "未命名.md",
-    "docs/就业文档/简历~CD777.tmp",
     "docs/test_note/笔记/面试常问.md",
     "docs/images/文件权限.png",
-    "docs/就业文档/简历.docx",
-    "docs/就业文档/~$简历.docx",
-    "docs/就业文档",
-    "pythonWorkPeace/testModel/pytest.ini",
-    "pythonWorkPeace/testModel/test/teXXXst_baiduSearch.py",
-    "pythonWorkPeace/testModel/test/test_login.py",
     "2025-04-25.md",
     "docs/test_note/笔记/3.MySQL学习/查询命令操作学习.md",
     "docs/test_note/笔记/3.MySQL学习/聚合函数.md",
