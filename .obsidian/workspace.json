@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/就业文档/项目介绍.md",
+                "file": "docs/就业文档/面试总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目介绍"
+              "title": "面试总结"
             }
           },
           {
@@ -233,6 +233,15 @@
   },
   "active": "706592b81a13578e",
   "lastOpenFiles": [
+    "docs/就业文档/陈海嘉-测试工程师.pdf",
+    "docs/就业文档/银行贷款项目.md",
+    "docs/就业文档/面试总结.md",
+    "未命名 2.md",
+    "docs/就业文档/项目介绍.md",
+    "docs/就业文档/未命名.md",
+    "docs/就业文档/自我介绍.md",
+    "未命名 1.md",
+    "未命名.md",
     "pythonWorkPeace/baidu_POM_project/pages/__pycache__/baiduResultPage.cpython-37.pyc",
     "pythonWorkPeace/baidu_POM_project/pages/__pycache__/baiduMainPage.cpython-37.pyc",
     "pythonWorkPeace/baidu_POM_project/pages/__pycache__",
@@ -243,21 +252,13 @@
     "pythonWorkPeace/baidu_POM_project/pages/baiduMainPage.py",
     "pythonWorkPeace/baidu_POM_project/pages/baiduMain.py",
     "pythonWorkPeace/baidu_POM_project/pytest.ini",
-    "pythonWorkPeace/baidu_POM_project/test",
     "docs/就业文档/技能穿插项目.md",
-    "docs/就业文档/未命名.md",
-    "docs/就业文档/未命名 2.md",
-    "docs/就业文档/项目介绍.md",
-    "docs/就业文档/未命名 1.md",
-    "未命名 2.md",
     "images/技能穿插技能例子.png",
     "images/项目技能穿插.png",
-    "未命名 1.md",
     "宝典阅读笔记.md",
     "images/QQ20250614-111342.png",
     "images/项目介绍.png",
     "images/自我介绍.png",
-    "未命名.md",
     "docs/test_note/笔记/面试常问.md",
     "docs/images/文件权限.png",
     "2025-04-25.md",
