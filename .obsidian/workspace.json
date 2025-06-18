@@ -11,14 +11,16 @@
             "id": "58d8c826e525df33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "docs/就业文档/未命名 1.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/就业文档/技术宝典.pdf",
+                "page": 341,
+                "left": -10,
+                "top": 78,
+                "zoom": 1.573576348059802
               },
-              "icon": "lucide-file",
-              "title": "未命名 1"
+              "icon": "lucide-file-text",
+              "title": "技术宝典"
             }
           },
           {
@@ -55,6 +57,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/就业文档/自我介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "自我介绍"
+            }
+          },
+          {
+            "id": "df0425efaeaf6ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/就业文档/项目介绍.md",
                 "mode": "source",
                 "source": false
@@ -64,21 +80,20 @@
             }
           },
           {
-            "id": "df0425efaeaf6ad0",
+            "id": "895203dba3b383a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/就业文档/未命名 2.md",
+                "file": "未命名 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "未命名 4"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a97639a26716310",
@@ -231,23 +247,28 @@
       "pdf-plus:PDF++: 切换自动粘贴": false
     }
   },
-  "active": "706592b81a13578e",
+  "active": "58d8c826e525df33",
   "lastOpenFiles": [
+    "docs/就业文档/~$电商项目包装.docx",
+    "docs/就业文档/电商项目包装.docx",
+    "docs/就业文档/电商项目包装~B79A8.tmp",
+    "docs/就业文档/陈海嘉-测试工程师~4552D.tmp",
+    "docs/就业文档/陈海嘉-测试工程师.pdf",
+    "docs/就业文档/未命名.md",
+    "未命名 4.md",
+    "docs/就业文档/项目介绍.md",
+    "docs/就业文档/技术宝典.pdf",
+    "docs/就业文档/技能穿插项目.md",
+    "docs/就业文档/自我介绍.md",
+    "docs/就业文档/陈海嘉-测试工程师~1C2E5.tmp",
+    "未命名 3.md",
+    "docs/就业文档/~$嘉-测试工程师.docx",
+    "docs/就业文档/面试总结.md",
+    "docs/就业文档/银行贷款项目.md",
     "pythonWorkPeace/baidu_POM_project/pages/__pycache__/baiduResultPage.cpython-37.pyc",
     "pythonWorkPeace/baidu_POM_project/pages/__pycache__/baiduMainPage.cpython-37.pyc",
     "pythonWorkPeace/baidu_POM_project/pages/__pycache__",
-    "pythonWorkPeace/baidu_POM_project/test/__pycache__/test_baidu.cpython-37-pytest-7.4.4.pyc",
-    "pythonWorkPeace/baidu_POM_project/test/__pycache__",
-    "pythonWorkPeace/baidu_POM_project/test/test_baidu.py",
-    "pythonWorkPeace/baidu_POM_project/pages/baiduResultPage.py",
-    "pythonWorkPeace/baidu_POM_project/pages/baiduMainPage.py",
-    "pythonWorkPeace/baidu_POM_project/pages/baiduMain.py",
-    "pythonWorkPeace/baidu_POM_project/pytest.ini",
-    "pythonWorkPeace/baidu_POM_project/test",
-    "docs/就业文档/技能穿插项目.md",
-    "docs/就业文档/未命名.md",
     "docs/就业文档/未命名 2.md",
-    "docs/就业文档/项目介绍.md",
     "docs/就业文档/未命名 1.md",
     "未命名 2.md",
     "images/技能穿插技能例子.png",
@@ -269,8 +290,6 @@
     "docs/test_note/笔记/4.接口测试/接口测试.md",
     "docs/test_note/笔记/3.MySQL学习/MySQL基本命令.md",
     "docs/test_note/笔记/2.Linux学习/环境部署.md",
-    "docs/test_note/笔记/5.Python学习/数据结构.md",
-    "docs/index.md",
-    "docs/test_note/笔记/2.Linux学习/操作命令.md"
+    "docs/test_note/笔记/5.Python学习/数据结构.md"
   ]
 }
