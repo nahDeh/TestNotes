@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "经典问题：",
+      "path": "经典问题：.md"
+    },
+    {
       "basename": "技术宝典",
       "path": "docs/就业文档/技术宝典.pdf"
     },
@@ -9,20 +13,32 @@
       "path": "docs/就业文档/未命名.md"
     },
     {
-      "basename": "未命名 4",
-      "path": "未命名 4.md"
-    },
-    {
       "basename": "项目介绍",
       "path": "docs/就业文档/项目介绍.md"
     },
     {
-      "basename": "技能穿插项目",
-      "path": "docs/就业文档/技能穿插项目.md"
+      "basename": "陈海嘉-测试工程师",
+      "path": "docs/就业文档/陈海嘉-测试工程师.pdf"
+    },
+    {
+      "basename": "包装清单：",
+      "path": "docs/就业文档/包装清单：.md"
+    },
+    {
+      "basename": "2025-04-25",
+      "path": "2025-04-25.md"
     },
     {
       "basename": "自我介绍",
       "path": "docs/就业文档/自我介绍.md"
+    },
+    {
+      "basename": "未命名 4",
+      "path": "未命名 4.md"
+    },
+    {
+      "basename": "技能穿插项目",
+      "path": "docs/就业文档/技能穿插项目.md"
     },
     {
       "basename": "未命名 2",
@@ -51,10 +67,6 @@
     {
       "basename": "文件权限",
       "path": "docs/images/文件权限.png"
-    },
-    {
-      "basename": "2025-04-25",
-      "path": "2025-04-25.md"
     },
     {
       "basename": "demo-mkdocs",
